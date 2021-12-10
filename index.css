@@ -1,5 +1,5 @@
 body {
-	background: url('pictures/picture-10.jpg') no-repeat center center fixed;
+	background: url('./pictures/picture-10.jpg') no-repeat center center fixed;
 	background-size: cover;
 	overflow: hidden; /* hide scrolling */
 }
